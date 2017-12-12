@@ -1,0 +1,26 @@
+*{
+    background: black;
+}
+#centered{
+    /*margin-left: auto;
+    margin-right: auto;*/
+    width: 850px;
+    margin:  0 auto;
+}
+#playing-field{
+    background: black;
+    border: solid 0.5px white;
+}
+#left-panel{
+    float: left;
+    color: white;
+}
+#right-panel{
+    float: right;
+
+}
+#right-panel input{
+    color: white;
+    height: 70px;
+    width: 150px;
+}
